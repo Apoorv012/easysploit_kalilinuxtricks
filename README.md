@@ -1,3 +1,7 @@
+It is not my project. I just cloned it for my future reference.
+Please check out the original code from the link given.
+https://github.com/KALILINUXTRICKSYT/easysploit.git
+
 # EasySploit
 EasySploit v4.2 (Linux) - Metasploit automation (EASIER and FASTER than EVER) 
 
