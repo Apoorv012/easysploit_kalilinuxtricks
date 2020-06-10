@@ -1,4 +1,4 @@
-It is not my project. I just cloned it for my future reference.
+It is not my project. I just cloned it for my future reference. Whole Contribution to KaliLinuxTricks
 Please check out the original code from the link given.
 https://github.com/KALILINUXTRICKSYT/easysploit.git
 
